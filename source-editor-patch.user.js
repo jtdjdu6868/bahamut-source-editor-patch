@@ -1,5 +1,6 @@
 // ==UserScript==
-// @name         巴哈姆特哈拉區原始碼編輯補丁
+// @name         Source editor patch for Bahamut forum post1.php
+// @name:zh-TW   巴哈姆特哈拉區原始碼編輯補丁
 // @namespace    https://jtdjdu6868.com/
 // @version      1.0
 // @description  臨時補上巴哈姆特哈拉區發文編輯器的原始碼切換功能
