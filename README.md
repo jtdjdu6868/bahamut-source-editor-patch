@@ -4,4 +4,3 @@
 https://forum.gamer.com.tw/C.php?bsn=60404&snA=41229
 
 若沒有使用 tampermonkey，可以使用書籤版，新增一個書籤並在網址貼上 `source-editor-patch.bookmark.js` 內容，在 `post1.php` 點一下書籤即可帶回原始碼編輯按鈕。
-注意本書籤沒有做防呆，按幾下就有幾個按鈕，並且不會偵測是否在正確的網址上執行。
