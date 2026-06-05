@@ -2,5 +2,12 @@
 
 相關文章：
 https://forum.gamer.com.tw/C.php?bsn=60404&snA=41229
+https://forum.gamer.com.tw/Co.php?bsn=60076&sn=108601600
 
-若沒有使用 tampermonkey，可以使用書籤版，新增一個書籤並在網址貼上 `source-editor-patch.bookmark.js` 內容，在 `post1.php` 點一下書籤即可帶回原始碼編輯按鈕。
+GreasyFork:
+https://greasyfork.org/zh-TW/scripts/581114-source-editor-patch-for-bahamut-forum-post1-php/
+
+儲存庫：
+https://github.com/jtdjdu6868/bahamut-source-editor-patch
+
+若沒有使用 tampermonkey，可以使用書籤版，新增一個書籤並在網址貼上 `source-editor-patch.bookmark.js` 內容，在 `post1.php` 點一下書籤即可補回原始碼編輯按鈕。
